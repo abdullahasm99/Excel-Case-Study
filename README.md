@@ -1,6 +1,8 @@
 # Excel-Case-Study
 
 ![Excel Dashboard Preview](![image](https://github.com/abdullahasm99/Excel-Case-Study/assets/153215733/119beb4c-34bb-4644-92b7-4cbb8fefb69a)
+![image](https://github.com/abdullahasm99/Excel-Case-Study/assets/153215733/c05a188b-ea62-48ea-85ad-215598b32b60)
+
 
 ## Overview
 
