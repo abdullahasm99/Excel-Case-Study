@@ -4,10 +4,6 @@
 ![image](https://github.com/abdullahasm99/Excel-Case-Study/assets/153215733/c05a188b-ea62-48ea-85ad-215598b32b60)
 
 
-## Overview
-
-Welcome to the Excel Dashboard Repository! This repository contains an Excel dashboard project designed to provide insightful visualizations and analysis. The dashboard is meticulously crafted to present a compelling story backed by data-driven insights.
-
 ## Features
 
 - **Story-driven Dashboard**: The dashboard is structured to narrate a coherent story, guiding users through important insights and findings.
